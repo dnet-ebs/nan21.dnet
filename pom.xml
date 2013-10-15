@@ -69,6 +69,7 @@
 		<version.war>2.1.1</version.war>
 		
 		<!--  -->
+		<yui.version>2.4.7</yui.version>
 		<yui.path>${user.home}/.m3/repository/com/yahoo/platform/yui/yuicompressor/${yui.version}/yuicompressor-${yui.version}.jar</yui.path>
 	</properties>
 	
