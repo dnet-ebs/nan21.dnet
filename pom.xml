@@ -59,7 +59,7 @@
 		<version.spring_integration>2.1.3.RELEASE</version.spring_integration>
 		<version.spring_security>3.1.1.RELEASE</version.spring_security>
 		<version.virgo>3.5.0.RELEASE</version.virgo>
-		<version.yuicompressor>2.4.2</version.yuicompressor>
+		<version.yuicompressor>2.4.7</version.yuicompressor>
 		
 		<!-- plugin version -->
 		
@@ -68,9 +68,7 @@
 		<version.jar>2.3</version.jar>
 		<version.war>2.1.1</version.war>
 		
-		<!--  -->
-		<yui.version>2.4.7</yui.version>
-		<yui.path>${user.home}/.m3/repository/com/yahoo/platform/yui/yuicompressor/${yui.version}/yuicompressor-${yui.version}.jar</yui.path>
+		<yui.path>${user.home}/.m3/repository/com/yahoo/platform/yui/yuicompressor/${version.yuicompressor}/yuicompressor-${version.yuicompressor}.jar</yui.path>
 	</properties>
 	
 	<dependencyManagement>
